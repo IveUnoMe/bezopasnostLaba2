@@ -1,0 +1,7 @@
+C:\Users\Vecheslav-PC\source\repos\Practica2\bin\Release\Yalov_Practica2.exe.config
+C:\Users\Vecheslav-PC\source\repos\Practica2\bin\Release\Yalov_Practica2.exe
+C:\Users\Vecheslav-PC\source\repos\Practica2\bin\Release\Yalov_Practica2.pdb
+C:\Users\Vecheslav-PC\source\repos\Practica2\obj\Release\Practica2.csproj.AssemblyReference.cache
+C:\Users\Vecheslav-PC\source\repos\Practica2\obj\Release\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Vecheslav-PC\source\repos\Practica2\obj\Release\Yalov_Practica2.exe
+C:\Users\Vecheslav-PC\source\repos\Practica2\obj\Release\Yalov_Practica2.pdb
